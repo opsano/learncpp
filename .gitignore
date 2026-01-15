@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
 
+# IDE files
+.idea/
+
+
+# Directories created by build systems/compilers
+build/
+bin/
+obj/
+Debug/
+Release/
+
 # Compiled Object files
 *.slo
 *.lo
